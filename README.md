@@ -20,7 +20,7 @@
 
 
 
-#### In-Project Apps
+#### Projects
 
 -> Live Image Pixel Colour Identifier
 
